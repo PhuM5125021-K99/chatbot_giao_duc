@@ -1,53 +1,165 @@
-# KIẾN THỨC GIÁO DỤC CƠ BẢN
+I. Thông tin học vụ
 
-## 1. Kỹ năng học tập hiệu quả
-- Học tập hiệu quả bắt đầu từ việc xác định mục tiêu rõ ràng cho từng buổi học.  
-- Phương pháp Pomodoro là kỹ thuật học phổ biến: học 25 phút, nghỉ 5 phút.  
-- Ghi chép bằng sơ đồ tư duy giúp tăng khả năng ghi nhớ lên đến 30–40%.  
-- Ôn tập lại kiến thức sau 24 giờ, 7 ngày và 30 ngày giúp củng cố trí nhớ dài hạn.  
+1. Lịch học và thời khóa biểu
 
-## 2. Tư duy phản biện
-- Tư duy phản biện giúp người học đặt câu hỏi, phân tích và đánh giá thông tin một cách khách quan.  
-- Khi đọc một tài liệu, nên hỏi: Ai là tác giả? Nguồn ở đâu? Có bằng chứng không?  
-- Học sinh nên rèn luyện khả năng tự phản biện bằng cách thử bảo vệ quan điểm ngược lại với mình.  
+Sinh viên có thể xem lịch học và thời khóa biểu trên hệ thống quản lý đào tạo (ví dụ: trang web trường hoặc ứng dụng sinh viên).
 
-## 3. Học trực tuyến và công nghệ giáo dục
-- Học trực tuyến (E-learning) mang lại cơ hội tiếp cận kiến thức mọi lúc, mọi nơi.  
-- Một số nền tảng phổ biến: Coursera, edX, Udemy, và học liệu mở Việt Nam.  
-- AI trong giáo dục giúp cá nhân hoá bài học, gợi ý lộ trình học phù hợp với từng học sinh.  
-- Chatbot giáo dục có thể đóng vai trò trợ lý học tập, giải đáp nhanh các câu hỏi về kiến thức.  
+Lịch học bao gồm thời gian, phòng học, tên môn học và giảng viên phụ trách.
 
-## 4. Phương pháp dạy học tích cực
-- Học theo dự án (Project-based learning) giúp học sinh phát triển kỹ năng giải quyết vấn đề.  
-- Học qua trò chơi (Game-based learning) làm tăng hứng thú và động lực học tập.  
-- Dạy học đảo ngược (Flipped Classroom) cho phép học sinh tự học lý thuyết trước, thực hành trên lớp sau.  
+Khi có thay đổi về lịch học, sinh viên nên kiểm tra thông báo mới nhất từ Phòng Đào tạo.
 
-## 5. Định hướng nghề nghiệp
-- Khi chọn nghề, học sinh nên cân nhắc ba yếu tố: Sở thích – Năng lực – Nhu cầu xã hội.  
-- Các ngành đang phát triển mạnh ở Việt Nam: Công nghệ thông tin, Trí tuệ nhân tạo, Kinh tế số, Giáo dục, Y học.  
-- Nghề nghiệp trong tương lai đòi hỏi khả năng thích ứng và học tập suốt đời.  
+2. Đăng ký môn học
 
-## 6. Kỹ năng mềm cần thiết
-- Kỹ năng giao tiếp, làm việc nhóm, và quản lý thời gian là ba kỹ năng quan trọng nhất trong học tập.  
-- Học sinh nên biết lắng nghe, trình bày ý tưởng và phản hồi tích cực với bạn bè.  
-- Quản lý cảm xúc giúp giảm căng thẳng trong học tập và thi cử.  
+Mỗi học kỳ, sinh viên cần đăng ký các học phần trên cổng thông tin điện tử.
 
-## 7. Trí tuệ nhân tạo trong giáo dục
-- AI có thể hỗ trợ chấm bài, gợi ý lộ trình học tập, tạo câu hỏi trắc nghiệm tự động.  
-- Tuy nhiên, học sinh cần sử dụng AI một cách có đạo đức, không để AI làm thay toàn bộ bài tập.  
-- AI chỉ là công cụ, người học vẫn cần tư duy và sáng tạo để hiểu sâu kiến thức.  
+Nên kiểm tra điều kiện tiên quyết của từng môn để tránh bị từ chối đăng ký.
 
-## 8. Giáo dục đạo đức và giá trị sống
-- Mục tiêu của giáo dục không chỉ là tri thức mà còn là hình thành nhân cách.  
-- Trung thực, trách nhiệm và tôn trọng là ba giá trị cốt lõi trong môi trường học đường.  
-- Học sinh cần biết cân bằng giữa học tập, sức khoẻ và quan hệ xã hội.  
+Các môn đã đạt điểm F có thể đăng ký học lại.
 
-## 9. Học tập suốt đời
-- Học tập không kết thúc sau khi ra trường — đó là quá trình suốt đời.  
-- Đọc sách, học online, tham gia khóa kỹ năng là cách duy trì sự phát triển bản thân.  
-- UNESCO coi "Học để biết, học để làm, học để cùng sống, học để tự khẳng định" là bốn trụ cột của giáo dục.  
+3. Điểm và tín chỉ
 
-## 10. Lời khuyên cho học sinh
-- Đừng sợ sai — sai là bước đầu tiên của học hỏi.  
-- Đặt câu hỏi mỗi ngày để duy trì trí tò mò và tư duy sáng tạo.  
-- Hãy học cách học, vì đó là kỹ năng quan trọng nhất của thế kỷ 21.
+Điểm tổng kết môn học thường bao gồm điểm chuyên cần, giữa kỳ và cuối kỳ.
+
+Mỗi học phần có số tín chỉ nhất định, dùng để tính điểm trung bình (GPA).
+
+Công thức tính GPA: Tổng (điểm hệ số * tín chỉ) / Tổng số tín chỉ.
+
+Điểm đạt yêu cầu: thường từ 5.0 trở lên (thang 10) hoặc D (thang 4).
+
+4. Học phí
+
+Học phí được tính theo số tín chỉ đăng ký trong học kỳ.
+
+Sinh viên có thể đóng học phí qua ngân hàng, ví điện tử hoặc tại quầy thu của trường.
+
+Nếu chậm đóng học phí, sinh viên có thể bị khóa tài khoản đăng ký học phần.
+
+5. Lịch thi và kết quả học tập
+
+Lịch thi được công bố trước kỳ thi ít nhất 2 tuần.
+
+Sinh viên cần mang theo thẻ sinh viên khi vào phòng thi.
+
+Kết quả thi sẽ được cập nhật lên hệ thống trong vòng 1–2 tuần sau khi thi.
+
+II. Quy chế và quy định sinh viên
+
+1. Nghỉ học và bảo lưu
+
+Sinh viên được phép nghỉ học tạm thời trong 1–2 học kỳ nếu có lý do chính đáng (ốm đau, hoàn cảnh khó khăn…).
+
+Cần nộp đơn xin bảo lưu tại Phòng Đào tạo kèm theo minh chứng.
+
+Thời gian bảo lưu không tính vào thời gian học tối đa của chương trình.
+
+2. Kỷ luật sinh viên
+
+Vi phạm quy định của trường (gian lận thi cử, đánh nhau, xúc phạm giảng viên…) có thể bị kỷ luật.
+
+Các mức kỷ luật gồm: khiển trách, cảnh cáo, đình chỉ học, buộc thôi học.
+
+3. Học bổng và khen thưởng
+
+Học bổng khuyến khích học tập được xét theo điểm trung bình và điểm rèn luyện của học kỳ trước.
+
+Điểm rèn luyện thường được đánh giá theo 5 tiêu chí: học tập, ý thức chấp hành, tham gia hoạt động, công tác xã hội, và tự quản.
+
+Sinh viên vi phạm quy chế thi hoặc kỷ luật sẽ không được xét học bổng.
+
+4. Xét tốt nghiệp
+
+Điều kiện tốt nghiệp: hoàn thành toàn bộ tín chỉ bắt buộc, không có học phần nợ, đạt điểm trung bình chung tối thiểu theo quy định.
+
+Sinh viên cần làm thủ tục xác nhận không nợ thư viện và hoàn thành khảo sát tốt nghiệp trước khi xét duyệt.
+
+III. Thông tin hành chính cơ bản
+
+1. Phòng Đào tạo
+
+Phụ trách kế hoạch giảng dạy, đăng ký học phần, điểm, lịch thi và xét tốt nghiệp.
+
+Email hỗ trợ: phongdaotao@[tên-trường].edu.vn
+
+Làm việc giờ hành chính từ thứ Hai đến thứ Sáu.
+
+2. Phòng Công tác sinh viên (CTSV)
+
+Giải quyết các vấn đề về hồ sơ, học bổng, bảo hiểm y tế, điểm rèn luyện và công tác đoàn hội.
+
+Email: ctsv@[tên-trường].edu.vn
+
+Sinh viên cần liên hệ CTSV khi muốn làm giấy xác nhận sinh viên hoặc giấy giới thiệu.
+
+3. Hỗ trợ kỹ thuật và tài khoản sinh viên
+
+Nếu không đăng nhập được hệ thống, hãy liên hệ bộ phận IT hoặc gửi email hỗ trợ kỹ thuật.
+
+Nên đổi mật khẩu định kỳ để đảm bảo an toàn thông tin.
+
+4. Lịch nghỉ lễ và biểu mẫu hành chính
+
+Các ngày nghỉ lễ được áp dụng theo quy định của Nhà nước và thông báo của trường.
+
+Các biểu mẫu (đơn bảo lưu, đơn xin xác nhận, đơn rút học phần…) được đăng tải trên website trường hoặc cổng sinh viên.
+
+IV. Hỗ trợ định hướng học tập và kỹ năng
+
+1. Tra cứu tài liệu học tập
+
+Sinh viên có thể tìm tài liệu tại thư viện trường hoặc qua các nền tảng học tập trực tuyến như Google Scholar, Coursera, edX.
+
+Nên sử dụng nguồn tài liệu chính thống, có trích dẫn rõ ràng.
+
+2. Gợi ý chọn học phần
+
+Nên chọn các học phần theo lộ trình được khuyến nghị của chương trình đào tạo.
+
+Ưu tiên học các môn tiên quyết trước, tránh bị trùng lịch hoặc quá tải tín chỉ.
+
+3. Mẹo học tập hiệu quả
+
+Sắp xếp thời gian hợp lý giữa học và nghỉ ngơi.
+
+Tham gia nhóm học tập để trao đổi kiến thức.
+
+Ghi chú các khái niệm quan trọng bằng sơ đồ tư duy.
+
+4. Kỹ năng mềm cần thiết
+
+Kỹ năng thuyết trình, làm việc nhóm, quản lý thời gian, và tư duy phản biện.
+
+Nhà trường thường tổ chức các buổi workshop hoặc câu lạc bộ để rèn luyện kỹ năng này.
+=== V. Thông tin riêng của Trường Đại Học Cần Thơ ===
+1. Giới thiệu chung  
+- Trường Đại học Cần Thơ (ĐHCT) là trường trọng điểm quốc gia tại Đồng bằng sông Cửu Long, trụ sở tại Khu II, đường 3/2, phường Ninh Kiều, TP. Cần Thơ.  
+- Sinh viên sẽ được cấp Mã Số Sinh Viên (MSSV), thẻ sinh viên, tài khoản email và truy cập hệ thống quản lý học tập ngay sau nhập học. 
+2. Chương trình đào tạo & tín chỉ  
+- Các ngành học thực hiện theo chương trình tín chỉ (TC). Mỗi học phần có mã số, tên môn học, số tín chỉ và lớp học phần.
+- Ví dụ: 1 TC tương đương với 15 tiết lý thuyết + 30 tiết tự học hoặc 30 tiết thực hành + 15 tiết chuẩn bị.   
+- Sinh viên cần tích lũy đủ tín chỉ của chương trình đào tạo, không có học phần nợ để được xét tốt nghiệp.
+
+3. Quy định học vụ & đánh giá kết quả học tập  
+- Quy định công tác học vụ dành cho sinh viên trình độ đại học hệ chính quy có hiệu lực từ học kỳ II năm học 2024-2025. 
+- Điểm học phần được đánh giá theo thang điểm 10. Có các học phần điều kiện (không tính điểm trung bình chung) như Giáo dục Thể chất, Giáo dục Quốc phòng – An ninh, Ngoại ngữ căn bản, Tin học căn bản. 
+- Sinh viên bị kỷ luật, có học phần nợ tín chỉ hoặc không đóng học phí có thể bị hủy kết quả học phần hoặc buộc thôi học. {index=7}
+
+4. Học phí, miễn giảm & học bổng  
+- Học phí được tính theo số tín chỉ trong học kỳ. Đối tượng miễn giảm, học bổng được áp dụng theo quy định hiện hành. 
+- Điều kiện xét học bổng: Sinh viên có số tín chỉ đăng ký tối thiểu, điểm trung bình học kỳ và điểm rèn luyện đạt mức khá trở lên, không bị kỷ luật. 
+5. Tra cứu, đăng ký học phần & lịch thi  
+- Sinh viên sử dụng hệ thống: **https://htql.ctu.edu.vn/** để tra cứu điểm học tập, lịch học, lịch thi, đăng ký học phần.  
+- Cổng học phần: **https://dkmhfe.ctu.edu.vn/** để đăng ký môn học, kiểm tra lớp học phần, lịch thi.  
+- Hướng dẫn sử dụng hệ thống: **https://emd.ctu.edu.vn/ho-tro-nguoi-hoc-qlmt/huongdan-qlmt/huong-dan-dkhp-qlmt.html**  
+- Nếu không thể truy cập hệ thống hoặc quên mật khẩu, liên hệ: Phòng Công tác Sinh viên – ĐHCT, Số điện thoại: (0292) 3872 177; Email: pctsv@ctu.edu.vn.
+6. Liên hệ & hỗ trợ sinh viên  
+- Phòng Công tác Sinh viên (CTSV), Tòa nhà Điều hành, Khu II, đường 3/2, phường Ninh Kiều, TP. Cần Thơ. Điện thoại: (0292) 3 872 177. 
+- Phòng Đào tạo: xử lý đăng ký học phần, xác nhận tốt nghiệp, bảng điểm. Website chính của trường: https://www.ctu.edu.vn  
+- Hỗ trợ kỹ thuật liên quan đến hệ thống quản lý sinh viên: https://helpdesk.ctu.edu.vn/  
+
+7. Một số mẹo học tập & sinh hoạt cho sinh viên ĐHCT  
+- Sinh viên nên theo dõi lịch học, lịch thi sớm qua hệ thống để tránh lỡ đăng ký hoặc tham dự.  
+- Nên yêu cầu cố vấn học tập (CVHT) xem và phê duyệt kế hoạch học tập toàn khóa (KHHTTK) từ đầu khóa. 
+- Tham gia các hoạt động ngoại khóa, công tác sinh viên để điểm rèn luyện tốt — giúp xét học bổng và tốt nghiệp thuận lợi hơn.  
+- Luôn lưu lại các thông báo từ trang sinh viên, nhóm lớp, email trường để không bỏ lỡ thay đổi lịch học hoặc văn bản mới.
+
+=== End of phần mở rộng ===
